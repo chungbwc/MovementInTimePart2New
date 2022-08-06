@@ -8,7 +8,7 @@ The project MOA005 is the non-interactive version of the artwork, i.e. the [orig
 
 ![Non-interactive version](https://img.youtube.com/vi/iMfCi-dp9dk/mqdefault.jpg)
 
-The project MoveFlow018 is the new interactive version of the artwork that interprets the live movement of the audience and converts it into the writing of the cursive style Chinese calligraphy, with the database generated from MoveTrain001.
+The project MoveFlow018 is the new interactive version of the artwork that interprets the live movement of the audience and converts it into the writing of the cursive style Chinese calligraphy, with the database generated from MoveTrain001. The software uses the [MediaPipe](https://google.github.io/mediapipe/solutions/pose.html) for the movement tracking.
 
 
 ![Interactive version](https://img.youtube.com/vi/00jUlfcGC1E/mqdefault.jpg)
